@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+	<TargetFramework>net7.0-windows</TargetFramework>
+	<PublishSingleFile>true</PublishSingleFile>
+	<RootNamespace>Project_2___Yahtzee</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>pngimg.com-dice_PNG49.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="pngimg.com-dice_PNG49.ico" />
+  </ItemGroup>
+
+</Project>

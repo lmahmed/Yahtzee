@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project 2 - Yahtzee", "Project 2 - Yahtzee\Project 2 - Yahtzee.csproj", "{120B9507-3B3B-4E43-9AC9-6D62FB081879}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project 2 - YahtzeeTests", "Project 2 - YahtzeeTests\Project 2 - YahtzeeTests.csproj", "{77F418B3-334D-4BA0-A30C-B7027F3F1377}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1\Setup1.vdproj", "{68A08D2A-48EC-455F-89F8-042F4392919F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120B9507-3B3B-4E43-9AC9-6D62FB081879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120B9507-3B3B-4E43-9AC9-6D62FB081879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120B9507-3B3B-4E43-9AC9-6D62FB081879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120B9507-3B3B-4E43-9AC9-6D62FB081879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F418B3-334D-4BA0-A30C-B7027F3F1377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F418B3-334D-4BA0-A30C-B7027F3F1377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F418B3-334D-4BA0-A30C-B7027F3F1377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F418B3-334D-4BA0-A30C-B7027F3F1377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A08D2A-48EC-455F-89F8-042F4392919F}.Debug|Any CPU.ActiveCfg = Debug
+		{68A08D2A-48EC-455F-89F8-042F4392919F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372AF420-43E2-42CE-A5E6-BEB7C76D449D}
+	EndGlobalSection
+EndGlobal
